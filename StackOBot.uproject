@@ -155,6 +155,16 @@
 		{
 			"Name": "RoomGenerator",
 			"Enabled": false
+		},
+		{
+			"Name": "AdvancedEditorUtilities",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/f375645593fc4d909bf8c79b9f64a066"
+		},
+		{
+			"Name": "LevelBookmarks",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/b4a88d66c795480fb803a0f4f8b1907e"
 		}
 	],
 	"EpicSampleNameHash": "255728979"
