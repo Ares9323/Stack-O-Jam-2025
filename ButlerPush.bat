@@ -1,2 +1,2 @@
 REM butler push "D:\_Unreal\UnrealProjects\Stack-O-Jam-2025\Build\Windows.zip" ares9323/stack-o-power:win
-butler push "D:\_Unreal\UnrealProjects\Stack-O-Jam-2025\Build\Windows" ares9323/stack-o-power:win --userversion 1.0
+butler push "D:\_Unreal\UnrealProjects\Stack-O-Jam-2025\Build\Windows" ares9323/ares9323-stack-o-power:win --userversion 1.0
